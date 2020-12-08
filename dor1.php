@@ -60,7 +60,7 @@ echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬�
         echo color("nevy","+] Your access token : ".$token."\n\n");
         save("token.txt",$token);
         echo color("nevy","\n===========(SUROBOYO LOSST REWEL PEGAT)===========");
-        echo "\n".color("nevy","!] GOFOOD1");
+        echo "\n".color("nevy","!] HARBOLNASMART");
         echo "\n".color("yellow","!] Please wait");
         for($a=1;$a<=3;$a++){
         echo color("yellow",".");
@@ -88,7 +88,7 @@ echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬�
         }else{
         echo "\n".color("red","+] Message: ".$message);
         gofood:
-        echo "\n".color("nevy","!] GOFOOD3");
+        echo "\n".color("nevy","!] HARBOLNASMART");
         echo "\n".color("yellow","!] Please wait");
         for($a=1;$a<=3;$a++){
         echo color("yellow",".");
